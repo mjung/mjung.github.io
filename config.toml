@@ -2,6 +2,7 @@ baseURL = "http://mjung.net/"
 languageCode = "en-gb"
 title = "Marko Jung"
 theme = "hermit"
+publishDir = "docs"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
