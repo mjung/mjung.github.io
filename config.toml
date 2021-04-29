@@ -1,4 +1,4 @@
-baseURL = "http://www.mjung.net/"
+baseURL = "https://www.mjung.net/"
 languageCode = "en-gb"
 title = "Marko Jung"
 theme = "hermit"
