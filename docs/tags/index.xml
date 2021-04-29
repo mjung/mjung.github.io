@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Marko Jung</title>
-    <link>http://www.mjung.net/tags/</link>
+    <link>https://www.mjung.net/tags/</link>
     <description>Recent content in Tags on Marko Jung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://www.mjung.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://www.mjung.net/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
